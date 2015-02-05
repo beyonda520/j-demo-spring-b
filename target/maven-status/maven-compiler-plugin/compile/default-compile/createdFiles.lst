@@ -1,0 +1,6 @@
+com\pingan\stock\demo\service\UserService.class
+com\pingan\stock\demo\App.class
+com\pingan\stock\demo\LogonController.class
+com\pingan\stock\demo\service\UserDao.class
+com\pingan\stock\demo\LoginController.class
+com\pingan\stock\demo\AppController.class
